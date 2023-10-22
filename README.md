@@ -8,4 +8,4 @@ _Steg:_
 4. Trener og tester modeller.
 5. Evaluering av modeller.
 
-flere detaljer og kommentarer kan finnes i filen [Eltog.ipynb](https://github.com/mengtsian/Qian-/blob/master/Eltog.ipynb).
+flere detaljer og kommentarer kan finnes i filen [Eltog_azure.ipynb](https://github.com/mengtsian/Qian/blob/main/eltog_azure.ipynb).
